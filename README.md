@@ -7,3 +7,7 @@ All analysis done using Python (packages: pandas, numpy, mtplotlib, seaborn, sci
 
 
 1. Variable Identification
+2. Univariate Analysis
+3. Bivariate Analysis
+4. Missing Value Analysis
+5. Outlier Analysis
